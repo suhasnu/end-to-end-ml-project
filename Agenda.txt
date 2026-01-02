@@ -1,0 +1,9 @@
+Agenda
+
+1- Set up the GitHub {Repository}
+ a) new environment
+    -change the path in the command prompt
+    -conda create -p venv python=3.8 -y (in vs-code)
+    -conda activate venv/
+ b) setup.py
+ c) requirements.txt
