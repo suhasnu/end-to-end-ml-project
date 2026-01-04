@@ -8,3 +8,5 @@ Set up Project With GitHub
 
 CI/CD Pipelines - GitHub Actions
 Deployment - AWS
+
+https://studentperformance-hyd2fdhchebjhkax.swedencentral-01.azurewebsites.net/predictdata
